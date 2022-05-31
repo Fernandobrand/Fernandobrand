@@ -1,9 +1,10 @@
-<div align="center">
+<figure align="center">
    <img align="right" alt="an avatar" height="500em" width="227" src="akira.png">
-  </div>
-   <h3> <img src="hi.gif" width="30px"> Hi, I'm Fernando Brandão</h3> 
-  <h1> Web development</h1>
-   
+ </figure>
+ <title>
+   <h1>  Hi <img src="hi.gif" width="30px">, I'm Fernando Brandão</h1> 
+   <h2> Web development</h2>
+ </title>
  
    <div align="start">
    
