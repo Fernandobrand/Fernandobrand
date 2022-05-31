@@ -5,9 +5,8 @@
    <h1>  Hi <img src="hi.gif" width="30px">, I'm Fernando Brandão</h1> 
    <h2> Web development</h2>
    
-<div>
-    - 🔥 I'm pushing myself to reenter the development area
-   
+
+    - 🔥 I'm pushing myself to reenter the development area &nbsp;
     - 💾 I'was Delphi and Java developer at my first job 2007
     - 💻 I Already done some study modules in HTML | CSS | JAVASCRIPT | BOOTSTRAP 
     - 🧑‍💻 I’m currently learning more JAVASCRIPT | NODE | REACT | 
@@ -15,9 +14,9 @@
     - 📬 mail me: f3rnandobrandao@gmail.com
     -  Never stop learnig
     - 📈 I looking for opportunity in a team
-</div>
 
-&nbsp;Tech Stack
+
+## &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
