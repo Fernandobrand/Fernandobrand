@@ -1,8 +1,9 @@
 <div align="center">
-   <h3> <img src="hi.gif" width="30px"> Hi, My name is Fernando Brandão, but you can call me Nando 🤝 </h3> 
-  <h1> Web development</h1>
    <img align="right" alt="an avatar" height="500em" width="227" src="akira.png">
   </div>
+   <h3> <img src="hi.gif" width="30px"> Hi, I'm Fernando Brandão</h3> 
+  <h1> Web development</h1>
+   
  
    <div align="start">
    
