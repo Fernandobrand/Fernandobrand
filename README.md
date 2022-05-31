@@ -1,10 +1,11 @@
 <figure align="center">
    <img align="right" alt="an avatar" height="500em" width="227" src="akira.png">
  </figure>
- <div>
+ 
    <h1>  Hi <img src="hi.gif" width="30px">, I'm Fernando Brandão</h1> 
    <h2> Web development</h2>
-
+   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
    
     - 🔥 I am pushing myself to reenter the development area 
     - 📜 I'was Delphi and Java developer at my first job 2007
