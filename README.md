@@ -1,7 +1,7 @@
 <div align="center">
-   <h1> 👋 Hi, My name is Fernando Brandão, but you can call me Nando 🤝 </h1> 
-  <h3> Web front-end developer</h3>
-   <img align="start" alt="Nando avatar" height="300" width="300" src="https://imgur.com/a/zM5ch6y.png">
+   <h3> 👋 Hi, My name is Fernando Brandão, but you can call me Nando 🤝 </h3> 
+  <h1> Web development</h1>
+   <img align="start" alt="Nando avatar" height="300" width="300" src="#">
   </div>
    <div align="start">
    
