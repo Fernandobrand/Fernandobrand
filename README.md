@@ -9,7 +9,7 @@
     - 💾 I'was Delphi and Java developer at my first job 2007 <br>
     - 💻 I already done some refresh modules at Alura  <br>
     - 🔭 I started by front-end but intent getting the back-end <br>
-    - 🧑‍💻 I’m currently point to JAVASCRIPT| NODE | REACT  <br>
+    - 🧑‍💻 I’m currently pointing to JAVASCRIPT | NODE | REACT  <br>
     - 📬 mail me: f3rnandobrandao@gmail.com <br>
     - 📈 I looking for opportunity in a team <br>
 
