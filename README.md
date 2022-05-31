@@ -6,7 +6,7 @@
    <h2> Web development</h2>
  </div>
  
-   <div align="start">
+   <p align="left">
    
     - 🔥 I am pushing myself to reenter the development area 
     - 📜 I'was Delphi and Java developer at my first job 2007
@@ -17,5 +17,5 @@
     - 🧑‍💻 Never stop learnig
     - 📈 I looking for opportunity in a team
     
-  </div>
+  </p>
 </div>
