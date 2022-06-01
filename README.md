@@ -2,7 +2,7 @@
    <img align="left" alt="an shoal fishers" height="500em" width="227" src="akira.png">
 
  
-   <h1>  Hi <img src="hi.gif" width="16px">, I'm Fernando Brandão</h1> 
+   <h1>  Hi <img src="hi.gif" max-width="20px">, I'm Fernando Brandão</h1> 
    <h2> Web development</h2>
    <br>
     - 🔥 Pushing myself to reenter the development area  <br>
