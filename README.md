@@ -1,9 +1,9 @@
 
    <img align="left" alt="an shoal fishers" height="500em" width="227" src="akira.png">
-
- 
+   <div>
    <h1>  Hi <img src="hi.gif" max-width="20px">, I'm Fernando Brandão</h1> 
    <h2> Web development</h2>
+   </div>
    <br>
     - 🔥 Pushing myself to reenter the development area  <br>
     - 💾 I'was Delphi and Java developer at my first job 2007 <br>
