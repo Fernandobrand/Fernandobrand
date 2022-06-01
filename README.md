@@ -1,9 +1,8 @@
 
-
- 
- <h1>  Hi <img src="hi.gif" width="20px">, I'm Fernando Brandão</h1> 
+<img align="left" alt="an shoal fishers" height="500em" width="227" src="akira.png">
+ <h1>  Hi 👋, I'm Fernando Brandão</h1> 
  <h2> Web development</h2>
- <img align="left" alt="an shoal fishers" height="500em" width="227" src="akira.png">
+
 <br>
 - 🔥 Pushing myself to reenter the development area  <br>
 - 💾 I'was Delphi and Java developer at my first job 2007 <br>
@@ -23,3 +22,4 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<!--<img src="hi.gif" width="20px">-->
