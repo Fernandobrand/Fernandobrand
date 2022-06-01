@@ -5,7 +5,7 @@
    <h1>  Hi <img src="hi.gif" width="30px">, I'm Fernando Brandão</h1> 
    <h2> Web development</h2>
    <br>
-    - 🔥 I'm pushing myself to reenter the development area  <br>
+    - 🔥 Pushing myself to reenter the development area  <br>
     - 💾 I'was Delphi and Java developer at my first job 2007 <br>
     - 💻 I already done some refresh modules at Alura  <br>
     - 🔭 I started by front-end but intent getting the back-end <br>
