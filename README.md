@@ -5,7 +5,7 @@
 
 <br>
 - 🔥 Pushing myself to reenter the development area  <br>
-- 💾 I'was Delphi and Java developer at my first job 2007 <br>
+- 💾 Delphi and Java developer 2006 2007 <br>
 - 💻 I already done some refresh modules at Alura  <br>
 - 🔭 I started by front-end but intent getting the back-end <br>
 - 🧑‍💻 I’m currently pointing to JAVASCRIPT | NODE | REACT  <br>
