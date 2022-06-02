@@ -25,4 +25,4 @@
 <!--<img src="hi.gif" width="20px">-->
 <br>
 <br>
-♻️ THERE IS NO PLANET B 🌎
+♻️ There is no Planet B 🌎
