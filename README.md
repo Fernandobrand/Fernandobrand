@@ -1,7 +1,7 @@
 
 <img align="left" alt="an shoal fishers" height="500em" width="227" src="akira.png">
- <h1>  Hi 👋, I'm Fernando Brandão</h1> 
- <h2> Web development</h2>
+<h2>  Hi 👋, I'm Fernando Brandão</h2> 
+<h4> Web development</h4>
 
 <br>
 - 🔥 Pushing myself to reenter the development area  <br>
@@ -23,3 +23,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <!--<img src="hi.gif" width="20px">-->
+<br>
+<br>
+♻️ THERE IS NO PLANET B 🌎
