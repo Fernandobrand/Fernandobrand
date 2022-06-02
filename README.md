@@ -26,3 +26,5 @@
 <br>
 <br>
 ♻️ There is no Planet B 🌎
+🎓Systems Analyst and Engineer Fisheries 🎓
+
