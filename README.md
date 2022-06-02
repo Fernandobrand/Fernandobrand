@@ -3,11 +3,10 @@
 <h2>  Hi 👋, I'm Fernando Brandão</h2> 
 <h4> Web development</h4>
 
-<br>
 - 🔥 Pushing myself to reenter the development area  <br>
 - 💾 Delphi and Java developer 2006 2007 <br>
-- 💻 I already done some refresh modules at Alura  <br>
-- 🔭 I started by front-end but intent getting the back-end <br>
+- 💻 I already done courses at Alura  <br>
+- 🔭 I started by front-end but intent get the back-end too <br>
 - 🧑‍💻 I’m currently pointing to JAVASCRIPT | NODE | REACT  <br>
 - 📬 mail me: f3rnandobrandao@gmail.com <br>
 - 📈 I looking for opportunity in a team <br>
@@ -24,7 +23,6 @@
 
 <!--<img src="hi.gif" width="20px">-->
 <br>
-<br>
+🎓Systems Analyst and Engineer Fisheries 🎓 <br>
 ♻️ There is no Planet B 🌎 <br>
-🎓Systems Analyst and Engineer Fisheries 🎓
 
