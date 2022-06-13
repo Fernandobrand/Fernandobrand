@@ -3,7 +3,7 @@
 <h2>  Hi 👋, I'm Fernando Brandão</h2> 
 <h4> Web development</h4>
 
-- 🎓 Systems Analyst and Engineer Fisheries <br>
+- 🎓 Systems Analyst and Fisheries Engineer  <br>
 - 💻 I already done courses at Alura  <br>
 - 🔭 I started by front-end, intent get back-end too <br>
 - 🧑‍💻 I’m currently improvement JAVASCRIPT learns <br>
