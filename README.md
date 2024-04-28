@@ -6,7 +6,7 @@
 - 🎓 Systems Analyst and Fisheries Engineer  <br>
 - 💻 I already done courses at Alura  <br>
 - 🔭 I started by front-end, intent get back-end too <br>
-- 🧑‍💻 I’m currently improvement JAVA and SPRING learns <br>
+- 🧑‍💻 Currently Java + Spring improvements<br>
 - 📬 mail me: f3rnandobrandao@gmail.com <br>
 - 📈 I looking for opportunity in a team <br>
 
