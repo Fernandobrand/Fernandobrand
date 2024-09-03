@@ -1,6 +1,6 @@
 
 <img align="left" alt="an shoal fishers" height="500em" width="227" src="akira.png">
-<h2> I'm Fernando Brandão, but you can call me Nando</h2> 
+<h2> I'm Fernando Brandão, but call me Nando</h2> 
 <h4> Web development Starter</h4>
 
 - 🎓 Systems Analyst (2008) and Fisheries Engineer (2018)  <br>
