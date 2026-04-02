@@ -5,9 +5,6 @@
 
 - 🎓 Systems Analyst (2008) and Fisheries Engineer (2018)  <br>
 - 💻 I already done refrash courses at Alura  <br>
-- 🔭 Started by front-end, intent get back-end <br>
-- 🧑‍💻 Currently Java + Spring improvements<br>
-- 📬 mail me: f3rnandobrandao@gmail.com <br>
 - 📈 Aways looking for a growing team <br>
 
 
